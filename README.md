@@ -7,6 +7,11 @@ Building materials for the robotic arm: 1- Multiple arms of different lengths 2-
 
 
 How to install the robot arm * First we install the base of a cube, we put a movable cylinder on top of it and we connect it with the arms.
+
+End effector:
+
+http://www.tinkercad.com/things/0uzCVjZaqEP
+
 نحن نصنع روبوت   لهدف إنجاز مهمة  المبارزة والتحدي    إنها    الفوز  للحرب   هدفنا نجعل لروبوت   يفجر لبالون للروبوتات  الأخرى   سنعمل ذراع متحركة   ونهاية الذراع ستكون  حادة
 مواد البناء الذراع :
 مواد   البناءة للذراع الروبوت :    1-ذراع متعددة مختلفه الاطوال  2- قاعدة لتثبيت  الذراع 3- نهاية الذراع  الحادة  (اليد ) 4-  بقية  القطع لتوصيل المواد
